@@ -81,50 +81,47 @@
             - 26 October 2022 - Self-growth and career development seminar 2.0 
             - 21 September 2022 - Self-growth and career development seminar 1.0 
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/rayid-mojumder/control-system-design">Control System Design - PID, LQG, LQR, MPC</a>
+      year: 2021 - 2022
+      description: Design robust control system in Matlab (Programming + Simulink)
+    - title: <a href="https://github.com/rayid-mojumder/matlab-programming">Learn Matlab: Scratch to advance level</a>
+      year: 2020
+      description: Learn Matlab in a structured way.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Best Research Award 2023, DIU
+        - Best Paper Award (Second Place)
+    - year: 2020
       items: 
-        - Max Planck Medal
+        - Deans List Award
+    - year: 2019
+      items: 
+        - Deans List Award
+    - year: 2018
+      items: 
+        - Deans List Award
+        - Second Runner-Up in Matlab Challenge Segment, Techival 2018 - National Tech Carnival
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Semiconductor Physics
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Low-dimensional Nanomaterials
+        - Semiconductor Device
+    - title: Machine Learning
       items:
-        - Description 1.
-        - Description 2.
+        - ML for VLSI Integration
+        - ML for Device Modeling
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Traveling, Reading, Web development
