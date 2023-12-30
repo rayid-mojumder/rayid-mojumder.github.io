@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Md. Rayid Hasan Mojumder
+    - name: Also Known As
+      value: Rayid Mojumder, MRH Mojumder
     - name: Languages
-      value: English, German
+      value: English, Bengali, Hindi, Arabic
 
 - title: Education
   type: time_table
