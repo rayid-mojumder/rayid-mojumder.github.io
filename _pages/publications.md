@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Find the full (including the latest) publications list in my Google Scholar profile.
+description: Find the full publications list in my Google Scholar profile.
 nav: true
 nav_order: 2
 ---
@@ -12,3 +12,4 @@ nav_order: 2
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
+<a href="https://scholar.google.com/citations?user=1xlWA0UAAAAJ&hl=en&oi=ao">Google Scholar</a>
