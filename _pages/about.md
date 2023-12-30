@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>PhD Student</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ryd-pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Md. Rayid Hasan Mojumder</p>
+    <p>Penn State, PA, USA</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Md. Rayid Hasan Mojumder (Rayid Mojumder) is currently a PhD student in Engineering Science and Mechanics at Pennsylvania State University. Before embarking on his PhD journey, he contributed to the academic field as a Lecturer in the Department of Electrical and Electronic Engineering at Daffodil International University. His academic foundation was laid at Khulna University of Engineering & Technology (KUET), where he completed both his Bachelor’s and Master’s degrees in Electrical and Electronic Engineering in 2020 and 2022, respectively.
+His research interests are deeply rooted in cutting-edge technology and innovation. He focuses on the exploration of 2D Nanomaterials Physics in the context of Semiconductor Devices.
+In recognition of his scholarly excellence and contributions to the field, Mojumder has received several prestigious awards. These include the Best Research Award in 2023 from Daffodil International University, acknowledging his outstanding quality in journal publication, and the Best Paper Award (Second Place) at the International Conference on Energy and Power Engineering (ICEPE) in 2022, hosted by Brac University and organized by the IEEE Power and Energy Society. His undergraduate academic achievements at KUET were also distinguished by multiple Dean’s List Awards.
