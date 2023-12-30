@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Student</a>. 
+subtitle: <a href='https://yuresearch.github.io/people.html'>PhD Student</a> | Research Interest - Nanomaterials, Semiconductors, Machine Learning
 
 profile:
   align: right
@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Md. Rayid Hasan Mojumder (Rayid Mojumder) is currently a PhD student in Engineering Science and Mechanics at Pennsylvania State University. Before embarking on his PhD journey, he contributed to the academic field as a Lecturer in the Department of Electrical and Electronic Engineering at Daffodil International University. His academic foundation was laid at Khulna University of Engineering & Technology (KUET), where he completed both his Bachelor’s and Master’s degrees in Electrical and Electronic Engineering in 2020 and 2022, respectively.
+Md. Rayid Hasan Mojumder (Rayid Mojumder) is currently a PhD student in [Engineering Science and Mechanics](https://www.esm.psu.edu/) at [Pennsylvania State University](https://www.psu.edu/). Before embarking on his PhD journey, he contributed to the academic field as a Lecturer in the [Department of Electrical and Electronic Engineering](https://daffodilvarsity.edu.bd/department/eee) at [Daffodil International University](https://daffodilvarsity.edu.bd/). His academic foundation was laid at [Khulna University of Engineering & Technology (KUET)](https://www.kuet.ac.bd/), where he completed both his Bachelor’s and Master’s degrees in [Electrical and Electronic Engineering](https://www.kuet.ac.bd/department/EEE/) in 2020 and 2022, respectively.
 His research interests are deeply rooted in cutting-edge technology and innovation. He focuses on the exploration of 2D Nanomaterials Physics in the context of Semiconductor Devices.
-In recognition of his scholarly excellence and contributions to the field, Mojumder has received several prestigious awards. These include the Best Research Award in 2023 from Daffodil International University, acknowledging his outstanding quality in journal publication, and the Best Paper Award (Second Place) at the International Conference on Energy and Power Engineering (ICEPE) in 2022, hosted by Brac University and organized by the IEEE Power and Energy Society. His undergraduate academic achievements at KUET were also distinguished by multiple Dean’s List Awards.
+In recognition of his scholarly excellence and contributions to the field, Mojumder has received several prestigious awards. These include the [Best Research Award](https://drive.google.com/file/d/1JiaF-y-gp3C3HmAB3it-Q-cYdZKZO73N/view) in 2023 from Daffodil International University, acknowledging his outstanding quality in journal publication, and the [Best Paper Award (Second Place)](https://drive.google.com/file/d/1peqDqsFiX77mkgjVRowOEXgYcW_rP7ph/view) at the International Conference on Energy and Power Engineering (ICEPE) in 2022, hosted by Brac University and organized by the IEEE Power and Energy Society. His undergraduate academic achievements at KUET were also distinguished by multiple Dean’s List Awards.
