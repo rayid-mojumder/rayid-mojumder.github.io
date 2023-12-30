@@ -1,3 +1,4 @@
+# do not use colon (:) within the text. It will turn into error for .yml file.
 - title: General Information
   type: map
   contents:
