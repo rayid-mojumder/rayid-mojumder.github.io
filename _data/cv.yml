@@ -87,8 +87,41 @@
     - title: <a href="https://github.com/rayid-mojumder/control-system-design">Control System Design - PID, LQG, LQR, MPC</a>
       year: 2021-2022
       description: Design robust control system in Matlab (Programming + Simulink)
-    - title: <a href="https://github.com/rayid-mojumder/matlab-programming">Learn Matlab: Scratch to advance level</a>
+    - title: <a href="https://github.com/rayid-mojumder/matlab-programming">Learn Matlab - Scratch to advance level</a>
       year: 2020
       description: Learn Matlab in a structured way.
 
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - Best Research Award 2023, DIU
+        - Best Paper Award (Second Place)
+    - year: 2020
+      items: 
+        - Deans List Award
+    - year: 2019
+      items: 
+        - Deans List Award
+    - year: 2018
+      items: 
+        - Deans List Award
+        - Second Runner-Up in Matlab Challenge Segment, Techival 2018 - National Tech Carnival
 
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Semiconductor Physics
+      items: 
+        - Low-dimensional Nanomaterials
+        - Semiconductor Device
+    - title: Machine Learning
+      items:
+        - ML for VLSI Integration
+        - ML for Device Modeling
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Traveling, Reading, Web development
