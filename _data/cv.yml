@@ -11,16 +11,18 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD (ongoing)
+      institution: The Pennsylvania State University, PA, USA
+      year: 2028
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Thesis: Flexible Electronics/Nanomaterials/Defect Modeling
+        - Supervisor: Dr. Cunjiang Yu
+        - Achievement: One review paper on Soft Artifical Synapse Transistor
+        - title: Research Activity
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Low-dimensional nanomaterials
+            - Semiconductor Physics
+            - Skills: Device fabrication, characterization
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
