@@ -70,7 +70,7 @@
             - Aerosol-jel printing process of graphene devices
             - Nanomaterials for nerve signal sensing
     - title: Lecturer of Electrical and Electronic Engineering
-      institution: Daffodil International University
+      institution: Daffodil International University (DIU)
       year: Feb. 2021 - Date (on-leave)
       description:
         - Courses - Electrical Properties of Materials, Computer Programming, Power System Protection, Transmission and Distribution of Electric Power, Electrical Circuits I)
@@ -91,27 +91,34 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Best Research Award 2023, DIU
+        - Best Paper Award (Second Place)
+    - year: 2020
       items: 
-        - Max Planck Medal
+        - Deans List Award
+    - year: 2019
+      items: 
+        - Deans List Award
+    - year: 2018
+      items: 
+        - Deans List Award
+        - Second Runner-Up in Matlab Challenge Segment, Techival 2018 - National Tech Carnival
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Semiconductor Physics
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Low-dimensional Nanomaterials
+        - Semiconductor Device
+    - title: Machine Learning
       items:
-        - Description 1.
-        - Description 2.
+        - ML for VLSI Integration
+        - ML for Device Modeling
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Traveling, Reading, Web development
