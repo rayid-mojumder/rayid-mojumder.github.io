@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <a href='https://yuresearch.github.io/people.html'>PhD Student</a> | Research Interest - Nanomaterials, Semiconductors, Machine Learning
 
@@ -9,7 +9,7 @@ profile:
   image: avatar.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Md. Rayid Hasan Mojumder</p>
+    <p>Rayid Mojumder</p>
     <p>Penn State, PA, USA</p>
 
 news: true  # includes a list of news items
