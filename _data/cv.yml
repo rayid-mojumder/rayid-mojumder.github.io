@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD (ongoing)
+    - title: PhD in Engineering Science and Mechanics (ongoing)
       institution: The Pennsylvania State University, PA, USA
       year: 2028
       description:
@@ -23,12 +23,18 @@
             - Low-dimensional nanomaterials
             - Semiconductor Physics
             - Skills: Device fabrication, characterization
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MS in Electrical and Electronic Engineering
+      institution: Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis: Power System Stability Analysis using Neural Network
+        - Supervisor: Dr. Naruttam Kumar Roy
+        - Achievement: Two IEEE international conferences, one awarded the Best Paper Award in ICEPE 2022, Dhaka, Bangladesh.
+        - title: Research Activity
+          contents:
+            - Machine Learning
+            - Power System
+            - Skills: Deep neural network, Python, Keras, Tensorflow
 
 - title: Experience
   type: time_table
