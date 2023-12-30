@@ -85,7 +85,7 @@
   type: time_table
   contents:
     - title: <a href="https://github.com/rayid-mojumder/control-system-design">Control System Design - PID, LQG, LQR, MPC</a>
-      year: 2021 - 2022
+      year: 2021-2022
       description: Design robust control system in Matlab (Programming + Simulink)
     - title: <a href="https://github.com/rayid-mojumder/matlab-programming">Learn Matlab: Scratch to advance level</a>
       year: 2020
