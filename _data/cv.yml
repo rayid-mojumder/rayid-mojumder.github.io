@@ -51,77 +51,67 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Graduate Teaching Assitant of Engineering Science and Mechanics
-      institution: The Pennsylvania State University, PA, USA
-      year: Jan.2024-May.2024
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-        - Courses - Yet to decide
-        - title: Key Tasks
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
           contents:
-            - Preparing Class Contents, recitating class
-            - Answer script evaluation, result preparating
-    - title: Graduate Research Assitant of Engineering Science and Mechanics
-      institution: The Pennsylvania State University, PA, USA
-      year: Aug.2023-Dec.2023
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
       description:
-        - Research - Flexible Organic Synaptic Transistor Fabrication and Characterization
-        - title: Investigation
-          contents:
-            - Aerosol-jel printing process of graphene devices
-            - Nanomaterials for nerve signal sensing
-    - title: Lecturer of Electrical and Electronic Engineering
-      institution: Daffodil International University (DIU)
-      year: 2021-NOW
+        - Description 1.
+        - Description 2.
+
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
       description:
-        - Courses - Electrical Properties of Materials, Computer Programming, Power System Protection, Transmission and Distribution of Electric Power, Electrical Circuits I)
-        - Labs - Programming I (C), Programming II (Python), Control Systems Lab (PLC + Matlab)
-        - title: Activities:
-          contents:
-            - 13 April 2023 - Necessity of Renewable Energy for a Climate-Safe Future
-            - 26 October 2022 - Self-growth and career development seminar - 2.0 
-            - 21 September 2022 - Self-growth and career development seminar - 1.0 
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/rayid-mojumder/control-system-design">Control System Design - PID, LQG, LQR, MPC</a>
-      year: 2021-2022
-      description: Design robust control system in Matlab (Programming + Simulink)
-    - title: <a href="https://github.com/rayid-mojumder/matlab-programming">Learn Matlab: Scratch to advance level</a>
-      year: 2020
-      description: Learn Matlab in a structured way.
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023
+    - year: 1921
       items: 
-        - Best Research Award 2023, DIU
-        - Best Paper Award (Second Place)
-    - year: 2020
+        - Nobel Prize in Physics 
+        - Matteucci Medal
+    - year: 2029
       items: 
-        - Deans List Award
-    - year: 2019
-      items: 
-        - Deans List Award
-    - year: 2018
-      items: 
-        - Deans List Award
-        - Second Runner-Up in Matlab Challenge Segment, Techival 2018 - National Tech Carnival
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Semiconductor Physics
+    - title: Topic 1.
       items: 
-        - Low-dimensional Nanomaterials
-        - Semiconductor Device
-    - title: Machine Learning
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
       items:
-        - ML for VLSI Integration
-        - ML for Device Modeling
+        - Description 1.
+        - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Traveling, Reading, Web development
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
