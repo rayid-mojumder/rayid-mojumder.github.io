@@ -15,38 +15,38 @@
       institution: The Pennsylvania State University, PA, USA
       year: 2028
       description:
-        - Thesis: Flexible Electronics/Nanomaterials/Defect Modeling
-        - Supervisor: Dr. Cunjiang Yu
-        - Achievement: One review paper on Soft Artifical Synapse Transistor
+        - Thesis - Flexible Electronics/Nanomaterials/Defect Modeling
+        - Supervisor - Dr. Cunjiang Yu
+        - Achievement - One review paper on Soft Artifical Synapse Transistor
         - title: Research Activity
           contents:
             - Low-dimensional nanomaterials
             - Semiconductor Physics
-            - Skills: Device fabrication, characterization
+            - Skills - Device fabrication, characterization
     - title: MS in Electrical and Electronic Engineering
       institution: Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh
       year: 2022
       description:
-        - Thesis: Power System Stability Analysis using Neural Network
-        - Supervisor: Dr. Naruttam Kumar Roy
-        - Achievement: Two international conferences (IEEE) proceedings, one awarded the Best Paper Award in ICEPE 2022, Dhaka, Bangladesh
+        - Thesis - Power System Stability Analysis using Neural Network
+        - Supervisor - Dr. Naruttam Kumar Roy
+        - Achievement - Two international conferences (IEEE) proceedings, one awarded the Best Paper Award in ICEPE 2022, Dhaka, Bangladesh
         - title: Research Activity
           contents:
             - Machine Learning
             - Power System
-            - Skills: Deep neural network, Python, Keras, Tensorflow
+            - Skills - Deep neural network, Python, Keras, Tensorflow
     - title: BS in Electrical and Electronic Engineering
       institution: Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh
       year: 2022
       description:
-        - Thesis: Tunable electronic properties of germanene and two-dimensional group-III phosphides heterobilayers
-        - Supervisor: Dr. Md. Sherajul Islam
-        - Achievement: Four journals (Nature, AIP, Elsevier) and three international conferences (IEEE) proceedings
+        - Thesis - Tunable electronic properties of germanene and two-dimensional group-III phosphides heterobilayers
+        - Supervisor - Dr. Md. Sherajul Islam
+        - Achievement - Four journals (Nature, AIP, Elsevier) and three international conferences (IEEE) proceedings
         - title: Research Activity
           contents:
             - First Principles Density Funcitonal Theorem (FP-DFT)
             - Solid state physics
-            - Skills: Quantum Espresso, Shell scripting, Linux, Parallel computing
+            - Skills - Quantum Espresso, Shell scripting, Linux, Parallel computing
 
 - title: Experience
   type: time_table
