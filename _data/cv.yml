@@ -53,13 +53,22 @@
   contents:
     - title: Graduate Teaching Assitant of Engineering Science and Mechanics
       institution: The Pennsylvania State University, PA, USA
-      year: Jan.2024-May.2024
+      year: 2024
       description:
         - Courses - Yet to decide
         - title: Key Tasks
           contents:
             - Preparing Class Contents, recitating class
             - Answer script evaluation, result preparating
+    - title: Graduate Research Assitant of Engineering Science and Mechanics
+      institution: The Pennsylvania State University, PA, USA
+      year: 2023
+      description:
+        - Research - Flexible Organic Synaptic Transistor Fabrication and Characterization
+        - title: Investigation
+          contents:
+            - Aerosol-jel printing process of graphene devices
+            - Nanomaterials for nerve signal sensing
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
