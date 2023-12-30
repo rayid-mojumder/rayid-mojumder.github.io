@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.io/al-folio/sitemap.xml
+Sitemap: https://rayid-mojumder.github.io/rayid-mojumder.github.io/sitemap.xml
