@@ -8,9 +8,7 @@ children:
     - title: People
       permalink: /people/
     - title: divider
-    - title: Projects
-      permalink: /projects/
+    - title: Teaching
+      permalink: /teaching/
     - title: divider
-    - title: Blog
-      permalink: /blog/
 ---
