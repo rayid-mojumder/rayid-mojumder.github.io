@@ -11,4 +11,7 @@ children:
     - title: Teaching
       permalink: /teaching/
     - title: divider
+    - title: CV
+      permalink: /cv/
+    - title: divider
 ---
