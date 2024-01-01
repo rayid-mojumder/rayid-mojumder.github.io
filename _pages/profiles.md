@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: IMG_0038.jpeg
-    content: rayid.md
+    content: people_profiles/rayid.md #profile link
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Rayid _ Sample 1</p>
