@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Happy New Year 2024
+Happy New Year 2024!
