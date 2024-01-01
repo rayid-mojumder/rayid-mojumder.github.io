@@ -19,7 +19,7 @@ profiles:
       <p>dummy@dummy.com</p
   - align: left
     image: IMG_0038.jpeg
-    content: people_profiles/rayid2.md #profile link
+    content: people_profiles/rayid2.md #profile link 2
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Rayid _ Sample 2</p>
