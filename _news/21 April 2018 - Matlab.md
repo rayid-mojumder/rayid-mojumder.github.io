@@ -5,8 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Second Runner-Up in Matlab Challenge Segment
-Techival 2018: National Tech Carnival
-Organized By: Department of Electronics and Communication Engineering
-Khulna University of Engineering & Technology (KUET)
-Khulna 9203, BD 
+Second Runner-Up in Matlab Challenge Segment. Techival 2018: National Tech Carnival. Organized By: Department of Electronics and Communication Engineering. Khulna University of Engineering & Technology (KUET). Khulna 9203, BD.
