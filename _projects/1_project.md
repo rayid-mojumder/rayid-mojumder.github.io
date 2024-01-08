@@ -5,12 +5,12 @@ description: Computational Investigation of 2D monolayer and heterostructures ma
 img: assets/img/DFT-project/dft-thumb.png
 importance: 1
 category: research
-related_publications: mojumder2020electronic, mojumder2021germanene, islam2021germanene, mojumder2022tunable, 
+related_publications: mojumder2022tunable, mojumder2021germanene, mojumder2020electronic, , islam2021germanene, 
 ---
 
-* Germanene/2D-AlP hetero-bilayer structure: scf and bands calculation (Quantum Espresso codes)"
+* Germanene/2D-GaP hetero-bilayer structure: scf and bands calculation (Quantum Espresso codes)"
   
-    (i) GeAlP.scf.in 
+    (i) GeGaP.scf.in 
     ```html
 		&CONTROL
 		calculation = "scf"
@@ -52,7 +52,7 @@ related_publications: mojumder2020electronic, mojumder2021germanene, islam2021ge
 		K_POINTS {automatic}
 		10 10 1 0 0 0		
     ```
-    (ii) GeAlP.b-nscf.in
+    (ii) GeGaP.b-nscf.in
     ```html
 		&CONTROL
 		calculation = "bands"
@@ -98,7 +98,7 @@ related_publications: mojumder2020electronic, mojumder2021germanene, islam2021ge
 		0.0000000 0.5000000 0.0000000 20 !M
 		0.0000000 0.0000000 0.0000000 20 !G	
     ```
-    (iii) GeAlP.band.in
+    (iii) GeGaP.band.in
     ```html
 		&bands
 		outdir = "./work/"
@@ -109,7 +109,7 @@ related_publications: mojumder2020electronic, mojumder2021germanene, islam2021ge
     ```
 
 Now, let's see some of the outputs. First, the scf and band outputs for the considered gemranene/2D-AlP hetero-bilayer is provided below. <br> 
-To view image in full size => <b><i>Open image in a new tab</i></b> 
+To view image in full size => <u><b><i>Open image in new tab</i></b></U> 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
