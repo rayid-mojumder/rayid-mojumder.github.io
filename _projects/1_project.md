@@ -110,13 +110,13 @@ related_publications: einstein1956investigations, einstein1950meaning
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DFT-project/fig-1.jpg" title="Four stacking arrangements of the germanene/2D-AlP heterostructure at equilibrium: (a) pattern-I, (b) pattern-II, (c) pattern-III, and (d) pattern-IV. A typical side view of the heterobilayer is placed in the center. “h” denotes the interlayer separation, and “Δ” denotes the buckling height." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DFT-project/fig-1.jpeg" title="Four stacking arrangements of the germanene/2D-AlP heterostructure at equilibrium: (a) pattern-I, (b) pattern-II, (c) pattern-III, and (d) pattern-IV. A typical side view of the heterobilayer is placed in the center. “h” denotes the interlayer separation, and “Δ” denotes the buckling height." class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DFT-project/fig-2.jpg title="The variation of binding energy/Ge atom as a function of the interlayer separation for the four patterns of germanene/2D-AlP heterobilayers. Downward arrows indicate the optimized interlayer distances for the respective patterns." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DFT-project/fig-2.jpeg title="The variation of binding energy/Ge atom as a function of the interlayer separation for the four patterns of germanene/2D-AlP heterobilayers. Downward arrows indicate the optimized interlayer distances for the respective patterns." class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DFT-project/fig-4.jpg" title="Electronic band diagram of (a) germanene without SOC, (b) germanene with SOC, and (c) monolayer AlP." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DFT-project/fig-4.jpeg" title="Electronic band diagram of (a) germanene without SOC, (b) germanene with SOC, and (c) monolayer AlP." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -124,7 +124,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DFT-project/fig-5.jpg" title="Band structures of the germanene/2D-AlP heterobilayer with SOC: (a) pattern-I, (b) pattern-II, (c) pattern-III, and (d) pattern-IV." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DFT-project/fig-5.jpeg" title="Band structures of the germanene/2D-AlP heterobilayer with SOC: (a) pattern-I, (b) pattern-II, (c) pattern-III, and (d) pattern-IV." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -135,10 +135,10 @@ To analyze the density of states (DOS) in a bit more insightful manner, the tota
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DFT-project/fig-6.jpg" title="(a) Atom projected density of states (PDOS) and (b) orbital projected density of states (PDOS) for pattern-III of the germanene/2D-AlP heterobilayer. Fermi level is set at 0." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DFT-project/fig-6.jpeg" title="(a) Atom projected density of states (PDOS) and (b) orbital projected density of states (PDOS) for pattern-III of the germanene/2D-AlP heterobilayer. Fermi level is set at 0." class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DFT-project/fig-7.jpg" title="(a) Space charge density and (b) charge density difference (CDD) for pattern-III of the germanene/2D-AlP heterobilayer. The isovalue is 0.00187 e/Å3. (VB: Valence Band and CB: Conduction Band)." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DFT-project/fig-7.jpeg" title="(a) Space charge density and (b) charge density difference (CDD) for pattern-III of the germanene/2D-AlP heterobilayer. The isovalue is 0.00187 e/Å3. (VB: Valence Band and CB: Conduction Band)." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -149,10 +149,10 @@ Now, see how the bandgap could be engineered using external biaxial strain and c
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DFT-project/fig-9.jpg" title="The variation of the bandgap and effective mass of the electron as a function of tensile strain (+ve) and compressive strain (−ve) for pattern-III of the germanene/2D-AlP heterobilayer." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DFT-project/fig-9.jpeg" title="The variation of the bandgap and effective mass of the electron as a function of tensile strain (+ve) and compressive strain (−ve) for pattern-III of the germanene/2D-AlP heterobilayer." class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DFT-project/fig-10.jpg" title="The bandgap and electron mobility variation as a function of the applied electric field for pattern-III of the germanene/2D-AlP heterobilayer. The direction of the applied positive electric field is from the 2D-AlP monolayer toward the germanene monolayer." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DFT-project/fig-10.jpeg" title="The bandgap and electron mobility variation as a function of the applied electric field for pattern-III of the germanene/2D-AlP heterobilayer. The direction of the applied positive electric field is from the 2D-AlP monolayer toward the germanene monolayer." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -163,7 +163,7 @@ Finally, lets see the phonon dispersion for germanene/2D-AlP heterostructure pat
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DFT-project/fig-13.jpg" title="(a) Phonon dispersion relation and (b) vibrational density of states (VDOS) of pattern-III of the germanene/2D-AlP heterobilayer." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DFT-project/fig-13.jpeg" title="(a) Phonon dispersion relation and (b) vibrational density of states (VDOS) of pattern-III of the germanene/2D-AlP heterobilayer." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
