@@ -11,7 +11,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 * Germanene/2D-AlP hetero-bilayer structure: scf and bands calculation (Quantum Espresso codes)"
   
     (i) GeAlP.scf.in 
-    ---
+    ```html
 		&CONTROL
 		calculation = "scf"
 		outdir = "./work/"
@@ -51,9 +51,9 @@ related_publications: einstein1956investigations, einstein1950meaning
 		Ge 0.000000000 2.245892547 4.08
 		K_POINTS {automatic}
 		10 10 1 0 0 0		
-    ---
+    ```
     (ii) GeAlP.b-nscf.in
-    ---
+    ```html
 		&CONTROL
 		calculation = "bands"
 		outdir = "./work/"
@@ -97,16 +97,16 @@ related_publications: einstein1956investigations, einstein1950meaning
 		0.3333333 0.3333333 0.0000000 20 !k
 		0.0000000 0.5000000 0.0000000 20 !M
 		0.0000000 0.0000000 0.0000000 20 !G	
-    ---
+    ```
     (iii) GeAlP.band.in
-    ---
+    ```html
 		&bands
 		outdir = "./work/"
 		prefix = 'GaP+Ge_I_3.70'
 		filband = 'GaP+Ge_I_3.70.band'
 		lsym = .true.
 		/
-    ---
+    ```
 
 
 <!--- I am commenting out this part. To uncomment discard the html comments notations)
