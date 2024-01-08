@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rayid-mojumder.github.io/rayid-mojumder.github.io//sitemap.xml
+Sitemap: https://rayid-mojumder.github.iorayid-mojumder.github.io//sitemap.xml
