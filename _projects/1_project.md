@@ -2,7 +2,7 @@
 layout: page
 title: DFT Investigation of 2D Nanomaterials
 description: Computational Investigation of 2D monolayer and heterostructures materials' electronic and optical properties using First-Principles Density Functional Theorem (DFT)
-img: assets/DFT-project/IMG_0037.png
+img: assets/DFT-project/dft-thumb.png
 importance: 1
 category: research
 related_publications: einstein1956investigations, einstein1950meaning
