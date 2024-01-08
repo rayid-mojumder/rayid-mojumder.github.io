@@ -107,7 +107,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 		lsym = .true.
 		/
     ```
-
+Now, let's see some of the outputs. First, the scf and band outputs for the considered gemranene/2D-AlP hetero-bilayer is provided below:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -135,6 +135,46 @@ Right - Electronic band diagram of (a) germanene without SOC, (b) germanene with
    Band structures of the germanene/2D-AlP heterobilayer with SOC (a) pattern-I, (b) pattern-II, (c) pattern-III, and (d) pattern-IV.
 </div>
 
+To analyze the density of states (DOS) in a bit more insightful manner, the total and the atom projected density of states (PDOS) are detailed in this portion. Also, charge density difference (CDD) and charge density distribution are depicted.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/DFT-project/fig-6.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/DFT-project/fig-7.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Left - (a) Atom projected density of states (PDOS) and (b) orbital projected density of states (PDOS) for pattern-III of the germanene/2D-AlP heterobilayer. Fermi level is set at 0.<br>
+   Right - (a) Space charge density and (b) charge density difference (CDD) for pattern-III of the germanene/2D-AlP heterobilayer. The isovalue is 0.00187 e/Å3. (VB - Valence Band and CB- Conduction Band).
+</div>
+
+Now, see how the bandgap could be engineered using external biaxial strain and changing the interlayer spacing between the germanene and 2D-AlP layer:
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/DFT-project/fig-9.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/DFT-project/fig-10.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Left - The variation of the bandgap and effective mass of the electron as a function of tensile strain (+ve) and compressive strain (−ve) for pattern-III of the germanene/2D-AlP heterobilayer. <br>
+    Right - The bandgap and electron mobility variation as a function of the applied electric field for pattern-III of the germanene/2D-AlP heterobilayer. The direction of the applied positive electric field is from the 2D-AlP monolayer toward the germanene monolayer.
+</div>
+
+Finally, lets see the phonon dispersion for germanene/2D-AlP heterostructure pattern III
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/DFT-project/fig-13.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    (a) Phonon dispersion relation and (b) vibrational density of states (VDOS) of pattern-III of the germanene/2D-AlP heterobilayer.
+</div>
 <!--- I am commenting out this part. To uncomment discard the html comments notations)
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
