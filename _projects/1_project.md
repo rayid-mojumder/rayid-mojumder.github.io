@@ -121,10 +121,7 @@ related_publications: einstein1956investigations, einstein1950meaning
     </div>
 </div>
 <div class="caption">
-    Left - Four stacking arrangements of the germanene/2D-AlP heterostructure at equilibrium (a) pattern-I, (b) pattern-II, (c) pattern-III, and (d) pattern-IV. A typical side view of the heterobilayer is placed in the center. “h” denotes the interlayer separation, and “Δ” denotes the buckling height.<br>
-    Middle - The variation of binding energy/Ge atom as a function of the interlayer separation for the four patterns of germanene/2D-AlP heterobilayers. Downward arrows indicate the optimized interlayer distances for the respective patterns. <br>
-    Right - Electronic band diagram of (a) germanene without SOC, (b) germanene with SOC, and (c) monolayer AlP. 
-	
+
 </div>
 
 
