@@ -5,7 +5,7 @@ description: Computational Investigation of 2D monolayer and heterostructures ma
 img: assets/img/DFT-project/dft-thumb.png
 importance: 1
 category: research
-related_publications: mojumder2022tunable, mojumder2021germanene, mojumder2020electronic, , islam2021germanene, 
+related_publications: mojumder2022tunable, mojumder2021germanene, mojumder2020electronic, islam2021germanene, 
 ---
 
 * Germanene/2D-GaP hetero-bilayer structure: scf and bands calculation (Quantum Espresso codes)"
