@@ -7,8 +7,7 @@ nav: false
 nav_order:
 ---
 
-- Feb. 2021 - Aug. 2023: Lecturer, Department of Electrical and Electronic Engineering
--- Daffodil International University, Dhaka 1216, Bangladesh
+**- Feb. 2021 - Aug. 2023: Lecturer, Department of Electrical and Electronic Engineering, Daffodil International University, Dhaka 1216, Bangladesh**
   * Routine Responsibilities:
       Conducted Courses: Electrical Properties of Materials, Computer Programming, Power System Protection, Transmission and Distribution of Electric Power, Electrical Circuits I)
       Conducted Labs: Programming I (C), Programming II (Python), Control Systems Lab (PLC+Matlab)
