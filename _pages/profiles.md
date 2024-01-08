@@ -17,13 +17,4 @@ profiles:
       <p>Rayid _ Sample 1</p>
       <p>Principle Investigator</p>
       <p>dummy@dummy.com</p
-      #this space is for a line gap
-  - align: right
-    image: IMG_0038.jpeg
-    content: people_profiles/rayid2.md #profile link 2
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>Rayid _ Sample 2</p>
-      <p>Principle Investigator</p>
-      <p>dummy@dummy.com</p
 ---
