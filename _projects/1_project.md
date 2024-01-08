@@ -107,6 +107,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 		lsym = .true.
 		/
     ```
+
 Now, let's see some of the outputs. First, the scf and band outputs for the considered gemranene/2D-AlP hetero-bilayer is provided below:
 
 <div class="row">
