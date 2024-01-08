@@ -5,7 +5,7 @@ description: Computational Investigation of 2D monolayer and heterostructures ma
 img: assets/img/DFT-project/dft-thumb.png
 importance: 1
 category: research
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: mojumder2020electronic, mojumder2021germanene, islam2021germanene, mojumder2022tunable, 
 ---
 
 * Germanene/2D-AlP hetero-bilayer structure: scf and bands calculation (Quantum Espresso codes)"
