@@ -15,6 +15,6 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Rayid _ Sample 1</p>
-      <p>Principle Investigator</p>
+      <p>Principle Dummy</p>
       <p>dummy@dummy.com</p
 ---
