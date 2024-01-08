@@ -111,17 +111,20 @@ related_publications: einstein1956investigations, einstein1950meaning
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DFT-project/fig-1.jpeg" title="Four stacking arrangements of the germanene/2D-AlP heterostructure at equilibrium (a) pattern-I, (b) pattern-II, (c) pattern-III, and (d) pattern-IV. A typical side view of the heterobilayer is placed in the center. “h” denotes the interlayer separation, and “Δ” denotes the buckling height." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DFT-project/fig-1.jpeg" title="fig-1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DFT-project/fig-2.jpeg title="The variation of binding energy/Ge atom as a function of the interlayer separation for the four patterns of germanene/2D-AlP heterobilayers. Downward arrows indicate the optimized interlayer distances for the respective patterns." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DFT-project/fig-2.jpeg title="fig-2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DFT-project/fig-4.jpeg" title="Electronic band diagram of (a) germanene without SOC, (b) germanene with SOC, and (c) monolayer AlP." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DFT-project/fig-4.jpeg" title="fig-4" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Optimized four stacking structure of the Germanene/2D-AlP hetero-bilayers and observed bandgaps.
+    Left - Four stacking arrangements of the germanene/2D-AlP heterostructure at equilibrium (a) pattern-I, (b) pattern-II, (c) pattern-III, and (d) pattern-IV. A typical side view of the heterobilayer is placed in the center. “h” denotes the interlayer separation, and “Δ” denotes the buckling height.<br>
+    Middle - The variation of binding energy/Ge atom as a function of the interlayer separation for the four patterns of germanene/2D-AlP heterobilayers. Downward arrows indicate the optimized interlayer distances for the respective patterns. <br>
+    Right - Electronic band diagram of (a) germanene without SOC, (b) germanene with SOC, and (c) monolayer AlP. 
+	
 </div>
 
 
