@@ -108,7 +108,7 @@ related_publications: mojumder2022tunable, mojumder2021germanene, mojumder2020el
 		/
     ```
 
-Now, let's see some of the outputs. First, the scf and band outputs for the considered gemranene/2D-AlP hetero-bilayer is provided below. <br> 
+Now, let's see some of the outputs. First, the scf and band outputs for the considered gemranene/2D-AlP hetero-bilayer is provided below. <br> <br>
 To view image in full size => <u><b><i>Open image in new tab</i></b></U> 
 
 <div class="row">
