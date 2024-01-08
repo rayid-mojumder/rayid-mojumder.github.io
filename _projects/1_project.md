@@ -9,6 +9,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 * Germanene/2D-AlP hetero-bilayer structure: scf and bands calculation (Quantum Espresso codes)"
+  
     (i) GeAlP.scf.in 
     ---
 		&CONTROL
