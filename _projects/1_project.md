@@ -124,7 +124,7 @@ To view image in full size => <b><i>Open image in a new tab</i></b>
 </div>
 <div class="caption">
 <b>
-<ul>
+<ul style='text-align: justify;'>
   <li>Left - Four stacking arrangements of the germanene/2D-AlP heterostructure at equilibrium (a) pattern-I, (b) pattern-II, (c) pattern-III, and (d) pattern-IV. A typical side view of the heterobilayer is placed in the center. “h” denotes the interlayer separation, and “Δ” denotes the buckling height.</li>
   <li>Middle - The variation of binding energy/Ge atom as a function of the interlayer separation for the four patterns of germanene/2D-AlP heterobilayers. Downward arrows indicate the optimized interlayer distances for the respective patterns.</li>
   <li>Right - Electronic band diagram of (a) germanene without SOC, (b) germanene with SOC, and (c) monolayer AlP.</li>
@@ -145,7 +145,7 @@ To view image in full size => <b><i>Open image in a new tab</i></b>
 </div>
 <div class="caption">
 <b>
-<ul>
+<ul style='text-align: justify;'>
   <li>Left - Band structures of the germanene/2D-AlP heterobilayer with SOC (a) pattern-I, (b) pattern-II, (c) pattern-III, and (d) pattern-IV. </li>
   <li>Middle - (a) Atom projected density of states (PDOS) and (b) orbital projected density of states (PDOS) for pattern-III of the germanene/2D-AlP heterobilayer. Fermi level is set at 0.</li>
   <li>Right - (a) Space charge density and (b) charge density difference (CDD) for pattern-III of the germanene/2D-AlP heterobilayer. The isovalue is 0.00187 e/Å3. (VB - Valence Band and CB- Conduction Band).</li>
@@ -166,7 +166,7 @@ To view image in full size => <b><i>Open image in a new tab</i></b>
 </div>
 <div class="caption">
 <b>
-<ul>
+<ul style='text-align: justify;'>
   <li>Left - The variation of the bandgap and effective mass of the electron as a function of tensile strain (+ve) and compressive strain (−ve) for pattern-III of the germanene/2D-AlP heterobilayer. </li>
   <li>Middle - The bandgap and electron mobility variation as a function of the applied electric field for pattern-III of the germanene/2D-AlP heterobilayer. The direction of the applied positive electric field is from the 2D-AlP monolayer toward the germanene monolayer.</li>
   <li>Right - (a) Phonon dispersion relation and (b) vibrational density of states (VDOS) of pattern-III of the germanene/2D-AlP heterobilayer.</li>
