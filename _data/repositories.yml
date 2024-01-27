@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rayid-mojumder
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - rayid-mojumder/IEEE14_BusSystem
+  - rayid-mojumder/Flyback-converter-Simulink-design
+  - rayid-mojumder/control-system-design
+  - rayid-mojumder/matlab-programming
+  - rayid-mojumder/rayid-mojumder.github.io
