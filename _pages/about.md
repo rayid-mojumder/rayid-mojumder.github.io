@@ -6,11 +6,10 @@ subtitle: <a href='https://yuresearch.github.io/people.html'>PhD Student</a> | R
 
 profile:
   align: right
-  image: IMG_0038.jpeg
-  image_circular: true # crops the image to make it circular
+  image: IMG_5054.jpeg
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p><b>Rayid Mojumder</b></p>
-    <p>Penn State, PA, USA</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
