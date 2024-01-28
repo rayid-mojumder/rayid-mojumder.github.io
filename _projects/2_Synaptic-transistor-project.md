@@ -5,7 +5,7 @@ description: Fabrication and characterization of orgnaic soft transistor for syn
 img: assets/img/Synapse-project/synapse.png
 importance: 2
 category: research
-related_publications: mojumder2022tunable, mojumder2021germanene, mojumder2020electronic, islam2021germanene, 
+related_publications: 
 ---
 
 * Details coming soon ........"
