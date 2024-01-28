@@ -9,7 +9,7 @@ profile:
   image: IMG_5054.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><b>Rayid Mojumder</b></p>
+    <p><b>Md. Rayid Hasan Mojumder</b></p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
