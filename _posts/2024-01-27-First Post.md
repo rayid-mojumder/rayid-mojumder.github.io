@@ -12,7 +12,7 @@ toc:
 ---
 This post shows makes a custom post including sidebar table of content, image, audio, video, twitter posts, and option for comments, and related posts.
 
-## Sidebar table of contents - heading
+## 1. SIDEBAR TABLE OF CONTENTS
 
 Side bar table of content is based on '#' or '##' etc used for heading, sub-heading, .... etc
 
@@ -54,4 +54,18 @@ This is an example post with videos.
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="https://player.vimeo.com/video/524933864?h=1ac4fd9fb4&title=0&byline=0&portrait=0" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+
+
+## 3. ADDING AUDIO FILES - from local and external link
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include audio.html path="assets/audio/epicaly-short-113909.mp3" controls=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include audio.html path="https://cdn.pixabay.com/download/audio/2022/06/25/audio_69a61cd6d6.mp3" controls=true %}
+    </div>
+</div>
+<div class="caption">
+    This is the caption for the audio files.
 </div>
