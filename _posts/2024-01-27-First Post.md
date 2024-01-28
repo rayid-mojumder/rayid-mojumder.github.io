@@ -16,7 +16,7 @@ This post shows makes a custom post including sidebar table of content, image, a
 
 ## 1. SIDEBAR TABLE OF CONTENTS
 
-Side bar table of content is based on '#' or '##' etc used for heading, sub-heading, .... etc
+Side bar table of content is based on '#' or '##' etc used for heading, sub-heading, .... etc. Let's see how that works out!
 
 ### Sidebar table of contents - subheading
 
