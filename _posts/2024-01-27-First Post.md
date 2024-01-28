@@ -5,8 +5,9 @@ date: 2024-01-27 10:14:00-0400
 description: Duas with relevant benefits - based on Hadith and Sunnah
 tags: Islam Muslim Duas
 categories: Muslim-Life
-giscus_comments: true
-related_posts: false
+giscus_comments: false
+related_posts: true
+thumbnail: assets/img/9.jpg
 toc:
   sidebar: left
 ---
@@ -68,4 +69,31 @@ This is an example post with videos.
 </div>
 <div class="caption">
     This is the caption for the audio files.
+</div>
+
+## 4. ADDING IMAGE FILES
+This is an example post with image galleries.
+
+### Normal images
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+</div>
+
+### Zoomable images
+Just add `data-zoomable` to `<img>` tags to make zoomable.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
 </div>
