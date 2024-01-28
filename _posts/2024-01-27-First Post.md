@@ -5,7 +5,7 @@ date: 2024-01-27 10:14:00-0400
 description: Duas with relevant benefits - based on Hadith and Sunnah
 tags: Islam Muslim Duas
 categories: Muslim-Life
-giscus_comments: false
+disqus_comments: true
 related_posts: true
 thumbnail: assets/img/9.jpg
 toc:
