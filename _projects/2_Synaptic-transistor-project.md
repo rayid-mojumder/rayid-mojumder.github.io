@@ -1,7 +1,7 @@
 ---
 layout: page
-title: DFT Investigation of 2D Nanomaterials
-description: Computational Investigation of 2D monolayer and heterostructures materials' electronic and optical properties using First-Principles Density Functional Theorem (DFT)
+title: Flexible synaptic transistor
+description: Fabrication and characterization of orgnaic soft transistor for synaptic applications
 img: assets/img/DFT-project/dft-thumb.png
 importance: 1
 category: research
