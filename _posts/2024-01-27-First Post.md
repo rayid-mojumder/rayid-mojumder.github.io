@@ -7,6 +7,7 @@ tags: Islam Muslim Duas
 categories: Muslim-Life
 disqus_comments: true
 related_posts: true
+featured: true
 thumbnail: assets/img/9.jpg
 toc:
   sidebar: left
@@ -111,3 +112,70 @@ An example of pulling from a timeline:
 {% twitter https://twitter.com/jekyllrb maxwidth=500 limit=3 %}
 
 
+## 6. ADDING CODES
+This theme implements a built-in Jekyll feature, the use of Rouge, for syntax highlighting.
+It supports more than 100 languages.
+### Basic markdown code
+This example is in C++.
+All you have to do is wrap your code in markdown code tags:
+
+````markdown
+```c++
+code code code
+```
+````
+
+For instance:
+```c++
+int main(int argc, char const \*argv[])
+{
+    string myString;
+
+    cout << "input a string: ";
+    getline(cin, myString);
+    int length = myString.length();
+
+    char charArray = new char * [length];
+
+    charArray = myString;
+    for(int i = 0; i < length; ++i){
+        cout << charArray[i] << " ";
+    }
+
+    return 0;
+}
+```
+### Show line numbers for the code also
+
+If you want to display line numbers for a specific code block, all you have to do is wrap your code in a liquid tag:
+
+{% raw %}
+{% highlight c++ linenos %}  <br/> code code code <br/> {% endhighlight %}
+{% endraw %}
+
+
+The keyword `linenos` triggers display of line numbers.
+Produces something like this:
+
+For instance:
+{% highlight c++ linenos %}
+
+int main(int argc, char const \*argv[])
+{
+    string myString;
+
+    cout << "input a string: ";
+    getline(cin, myString);
+    int length = myString.length();
+
+    char charArray = new char * [length];
+
+    charArray = myString;
+    for(int i = 0; i < length; ++i){
+        cout << charArray[i] << " ";
+    }
+
+    return 0;
+}
+
+{% endhighlight %}
