@@ -2,7 +2,7 @@
 layout: post
 title: Everyday duas to pray as a Muslim
 date: 2024-01-27 10:14:00-0400
-description: Duas with relevant benefits - based on Hadith and Sunnah
+description: Basic GitHub blog positing structure with image, audio, video, and comments options
 tags: Islam Muslim Duas
 categories: Muslim-Life
 disqus_comments: true
