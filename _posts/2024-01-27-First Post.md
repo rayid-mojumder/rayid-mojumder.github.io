@@ -97,3 +97,17 @@ Just add `data-zoomable` to `<img>` tags to make zoomable.
         {% include figure.html path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
+
+## 5. ADD TWITTER POSTS
+A sample blog page that demonstrates the inclusion of Tweets/Timelines/etc. For more details on using the plugin visit: [jekyll-twitter-plugin](https://github.com/rob-murray/jekyll-twitter-plugin)
+
+### Add Tweets
+An example of displaying a tweet:
+{% twitter https://twitter.com/rubygems/status/518821243320287232 %}
+
+# Add Twitter Timeline
+An example of pulling from a timeline:
+{% twitter https://twitter.com/jekyllrb maxwidth=500 limit=3 %}
+
+
