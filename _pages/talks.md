@@ -1,5 +1,5 @@
 ---
-layout: archive-year
+layout: default
 permalink: /talks/
 title: Talks
 nav: true
