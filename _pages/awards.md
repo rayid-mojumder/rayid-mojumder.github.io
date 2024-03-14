@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: archive-category
 permalink: /awards/
 title: Awards
 nav: true
