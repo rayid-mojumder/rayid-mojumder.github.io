@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: archive-year
 permalink: /talks/
 title: Talks
 nav: true
