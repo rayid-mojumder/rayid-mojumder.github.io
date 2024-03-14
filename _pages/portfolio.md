@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 description: Thank you for showing interest in my projects.
 nav: true
-nav_order: 2
+nav_order: 5
 display_categories: [research, work, fun]
 horizontal: false
 ---
