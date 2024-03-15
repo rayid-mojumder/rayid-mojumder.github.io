@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: awards_rayid
 permalink: /awards/
 title: Awards
 nav: true
 nav_order: 3
 description: I am pleased to share some of the recognitions I have received over the years.
 toc:
-  sidebar: left
+  sidebar: right
 ---
 
 ### 2023
