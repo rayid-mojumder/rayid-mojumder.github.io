@@ -34,6 +34,6 @@ toc:
 * [Techival 2018: National Tech Carnival](https://www.kuet.ac.bd/Technival2018/)
 * Organized By: Department of Electronics and Communication Engineering, Khulna University of Engineering & Technology (KUET), Khulna 9203, BD 
 
-#### * Deans List Award - January 2018
+#### Deans List Award - January 2018
 * Undergrad 'Second' Academic Year 2017-2018
 * Issued By: Faculty of Electrical and Electronic Engineering, Khulna University of Engineering & Technology (KUET), Khulna 9203, BD 
