@@ -57,7 +57,7 @@ horizontal: false
 {%- endif -%}
 </div>
 
-
+{::comment}  //Start Hiding GitHub Profile
 ## GitHub Profile
 
 {% if site.data.repositories.github_users %}
@@ -83,6 +83,8 @@ horizontal: false
 {% endfor %}
 {% endif %}
 {% endif %}
+
+{:/comment}
 
 ## GitHub Repositories
 
