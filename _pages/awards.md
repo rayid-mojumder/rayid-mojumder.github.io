@@ -1,5 +1,5 @@
 ---
-layout: distill
+layout: page
 permalink: /awards/
 title: Awards
 nav: true
