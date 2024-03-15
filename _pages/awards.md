@@ -1,5 +1,5 @@
 ---
-layout: awards_rayid
+layout: distill
 permalink: /awards/
 title: Awards
 nav: true
