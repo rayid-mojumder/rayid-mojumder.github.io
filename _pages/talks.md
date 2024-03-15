@@ -1,5 +1,5 @@
 ---
-layout: distill
+layout: page
 permalink: /talks/
 title: Talks
 nav: true
