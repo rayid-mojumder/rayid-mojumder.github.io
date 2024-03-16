@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: A short description of my teaching experience
 nav: false
-nav_order: 7
+nav_order:
 horizontal: false
 ---
 
