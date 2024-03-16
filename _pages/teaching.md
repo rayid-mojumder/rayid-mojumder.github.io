@@ -4,7 +4,8 @@ permalink: /teaching/
 title: Teaching
 description: A short description of my teaching experience
 nav: false
-nav_order:
+nav_order: 7
+horizontal: false
 ---
 
 **- Feb. 2021 - Aug. 2023: Lecturer, Department of Electrical and Electronic Engineering, Daffodil International University, Dhaka 1216, Bangladesh**
