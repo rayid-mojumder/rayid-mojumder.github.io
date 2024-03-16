@@ -10,7 +10,7 @@ toc:
 ---
 
 #### Teaching Activities
-Lecturer, Department of Electrical and Electronic Engineering (Feb. 2021 - Aug. 2023)
+Lecturer, [Department of Electrical and Electronic Engineering](https://daffodilvarsity.edu.bd/department/eee) (Feb. 2021 - Aug. 2023)
 Daffodil International University, Dhaka 1216, Bangladesh
 Routine Responsibilities:
 * ###### Conducted Courses: Electrical Properties of Materials, Computer Programming, Power System Protection, Transmission and Distribution of Electric Power, Electrical Circuits I)
