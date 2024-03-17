@@ -2,10 +2,11 @@ github_users:
   - rayid-mojumder
 
 github_repos:
-  - rayid-mojumder/control-system-design
-  - rayid-mojumder/IEEE14_BusSystem
-  - rayid-mojumder/DFT-simulation-VASP
-  - rayid-mojumder/matlab-programming
-  - rayid-mojumder/rayid-mojumder.github.io
-  - rayid-mojumder/Flyback-converter-Simulink-design
   - rayid-mojumder/DFT_Quantum_Espresso_2Dmaterials
+  - rayid-mojumder/DFT-simulation-VASP
+  - rayid-mojumder/control-system-design
+  - rayid-mojumder/rayid-mojumder.github.io
+  - rayid-mojumder/IEEE14_BusSystem
+  - rayid-mojumder/matlab-programming
+  - rayid-mojumder/Flyback-converter-Simulink-design
+
