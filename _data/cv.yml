@@ -113,14 +113,11 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Semiconductor Physics
-      items: 
-        - Low-dimensional Nanomaterials
-        - Semiconductor Device
+    - title: Semiconductor Materials
+    - title: Semiconductor Devices
+    - title: Semiconductor Packaging
+    - title: Sustainable Energy Systems
     - title: Machine Learning
-      items:
-        - ML for VLSI Integration
-        - ML for Device Modeling
 
 - title: Other Interests
   type: list
