@@ -34,6 +34,7 @@ toc:
 * ###### Senior Executive Committee Member, IEEE KUET Student Branch, Khulna University of Engineering & Technology (KUET), BD (Feb. 2019 - Feb. 2020) [[Certificate](https://drive.google.com/file/d/1APjMjKoPCoAEBG5Angtl48ipGNNOeStK/view)
 
 #### Volunteering Activities
+* ###### Student Judge (Poster Competition Session), ESM Today - Spring 2024, Department of Engineering Science and Mechanics, The Pennsylvania State University, PA 16802, USA (Mar. 2024)
 * ###### Volunteer, Microsinnovators IEEE SS12 2018, IEEE KUET Student Branch (Aug. 2018) [[Certificate](https://drive.google.com/file/d/1JF5lFoGr7mBvuDJUjf4fVuHl9ZS2209H/view)]
 
 #### Youtube Channels
