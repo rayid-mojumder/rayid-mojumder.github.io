@@ -27,7 +27,7 @@ toc:
 * ###### Peer Reviewer, Indian Journal of Physics (2022 - Date)
 * ###### Peer Reviewer, Advanced Materials Research (2022)
 * ###### Peer Reviewer, IEEE Access (2021)
-* ###### IEEE Graduate Student Member (2021 - 2022)
+* ###### IEEE Graduate Student Member (2021 - Date)
 * [[WebofScience Profile](https://www.webofscience.com/wos/author/rid/ABS-4864-2022)]
 
 #### Organizational Activities
