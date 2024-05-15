@@ -15,7 +15,7 @@ toc:
 * ###### Lecturer, [Department of Electrical and Electronic Engineering](https://daffodilvarsity.edu.bd/department/eee) (Feb. 2021 - Jul. 2023/Date (on-leave)), Daffodil International University, Dhaka 1216, Bangladesh
 
 #### Workshops/Training (as Instructor)
-* ###### Workshop on First Principles Density Functional Theorem (FP-DFT) for Materials Simulation in Quantum Espresso (March. 2023) [[Recorded Session:](https://www.youtube.com/watch?v=wn60RdgKBY8)] [[Complete Playlist:](https://www.youtube.com/playlist?list=PLSm7ZQMDqBcfeiEZSXpblorzNPfNEeb4r)]
+* ###### Workshop on First Principles Density Functional Theorem (FP-DFT) for Materials Simulation in Quantum Espresso (March. 2023) [[Recorded Session](https://www.youtube.com/watch?v=wn60RdgKBY8)] [[Complete Playlist](https://www.youtube.com/playlist?list=PLSm7ZQMDqBcfeiEZSXpblorzNPfNEeb4r)]
 
 #### Invited Talks
 * ###### Necessity of Renewable Energy for a Climate-Safe Future (Apr. 2023)
