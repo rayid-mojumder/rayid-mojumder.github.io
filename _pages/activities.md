@@ -14,8 +14,11 @@ toc:
 * ###### Graduate Research Assistant, [Department of Engineering Science and Mechanics](https://www.esm.psu.edu/) (Aug. 2023 - Dec. 2023), Pennsylvania State University, State College, PA 16802, USA
 * ###### Lecturer, [Department of Electrical and Electronic Engineering](https://daffodilvarsity.edu.bd/department/eee) (Feb. 2021 - Jul. 2023/Date (on-leave)), Daffodil International University, Dhaka 1216, Bangladesh
 
+#### Workshops/Training (as Instructor)
+* ###### Workshop on First Principles Density Functional Theorem (FP-DFT) for Materials Simulation in Quantum Espresso (March. 2023) [[Recorded Session:](https://www.youtube.com/watch?v=wn60RdgKBY8)] [[Complete Playlist:](https://www.youtube.com/playlist?list=PLSm7ZQMDqBcfeiEZSXpblorzNPfNEeb4r)]
 
-#### Talk
+#### Invited Talks
+* ###### Necessity of Renewable Energy for a Climate-Safe Future (Apr. 2023)
 * ###### Necessity of Renewable Energy for a Climate-Safe Future (Apr. 2023)
 * ###### Self-growth and career development seminar - 2.0 (Oct. 2022)
 * ###### Self-growth and career development seminar - 1.0 (Sept. 2022)
