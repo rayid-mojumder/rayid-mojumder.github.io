@@ -31,6 +31,7 @@ toc:
 * [[WebofScience Profile](https://www.webofscience.com/wos/author/rid/ABS-4864-2022)]
 
 #### Organizational Activities
+* ###### Chair, College of Engineering Research Symposium (CERS), Penn State (2024 - 2025)
 * ###### Logistics Secretary, Bangladesh Students Association, Penn State (Nov. 2023 - Date)
 * ###### Organizing Secretary, EEE Makers Hub, Khulna University of Engineering & Technology (KUET), BD (Jan. 2019 - June 2020) [[Certificate](https://drive.google.com/file/d/1N_lfiA064l9k-P8hsJ3u2qGlyocYs6Hp/view)]
 * ###### Senior Executive Committee Member, IEEE KUET Student Branch, Khulna University of Engineering & Technology (KUET), BD (Feb. 2019 - Feb. 2020) [[Certificate](https://drive.google.com/file/d/1APjMjKoPCoAEBG5Angtl48ipGNNOeStK/view)
