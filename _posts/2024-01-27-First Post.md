@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is a Generic Post Format
+title: Post Template
 date: 2024-01-27 10:14:00-0400
 description: Basic GitHub blog positing structure with image, audio, video, and comments options
 tags: Trail Posting One
