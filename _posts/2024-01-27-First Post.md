@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Post Template
+title: Basic Blog Post Template
 date: 2024-01-27 10:14:00-0400
 description: Basic GitHub blog positing structure with image, audio, video, and comments options
 tags: Trail Posting One
 categories: Trail Posting One
 disqus_comments: true
 related_posts: true
-featured: true
+featured: false
 thumbnail: assets/img/9.jpg
 toc:
   sidebar: left
