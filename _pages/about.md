@@ -2,8 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://yuresearch.github.io/people.html'>PhD Student</a> | Research Interest - Nanomaterials, Semiconductors, Machine Learning
-
+subtitle: <a href='https:/rayid-mojumder.github.io/'>PhD Student</a> | Research Interest - Photonic Interconnets, Heterogeneous Integration, Semiconductor Physics
 profile:
   align: right
   image: IMG_5054.jpeg
