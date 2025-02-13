@@ -6,8 +6,17 @@ layout: default
 <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }} {% if page.cv_pdf %}<a href="{{ Rayid_Mojumder_Resume.pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fa-solid fa-file-pdf"></i></a>{% endif %}</h1>
-      {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
+    <h1 class="post-title">
+      {{ page.title }} 
+      {% if page.cv_pdf %}
+        <a href="{{ 'assets/pdf/Rayid_Mojumder_Resume.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" class="float-right">
+          <i class="fa-solid fa-file-pdf"></i>
+        </a>
+      {% endif %}
+    </h1>
+    {% if page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
   </header>
 
   <article>
@@ -17,23 +26,23 @@ layout: default
         <div class="card mt-3 p-3">
           <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
           <div>
-          {% if entry.type == "list" %}
-            {% include cv/list.html %}
-          {% elsif entry.type == "map" %}
-            {% include cv/map.html %}
-          {% elsif entry.type == "nested_list" %}
-            {% include cv/nested_list.html %}
-          {% elsif entry.type == "time_table" %}
-            {% include cv/time_table.html %}
-          {% elsif entry.type == "list_groups" %}
-            {% include cv/list_groups.html %}
-          {% else %}
-            {{ entry.contents }}
-          {% endif %}
+            {% if entry.type == "list" %}
+              {% include cv/list.html %}
+            {% elsif entry.type == "map" %}
+              {% include cv/map.html %}
+            {% elsif entry.type == "nested_list" %}
+              {% include cv/nested_list.html %}
+            {% elsif entry.type == "time_table" %}
+              {% include cv/time_table.html %}
+            {% elsif entry.type == "list_groups" %}
+              {% include cv/list_groups.html %}
+            {% else %}
+              {{ entry.contents }}
+            {% endif %}
           </div>
         </div>
       {% endfor %}
-      </div>
+    </div>
   </article>
 
 </div>
@@ -41,8 +50,17 @@ layout: default
 <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }} {% if page.cv_pdf %}<a href="{{ Rayid_Mojumder_Resume.pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fa-solid fa-file-pdf"></i></a>{% endif %}</h1>
-    {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
+    <h1 class="post-title">
+      {{ page.title }} 
+      {% if page.cv_pdf %}
+        <a href="{{ 'assets/pdf/Rayid_Mojumder_Resume.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" class="float-right">
+          <i class="fa-solid fa-file-pdf"></i>
+        </a>
+      {% endif %}
+    </h1>
+    {% if page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
   </header>
 
   <article>
@@ -60,38 +78,38 @@ layout: default
         <div class="card mt-3 p-3">
           <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
           <div>
-          {% case data[0] %}
-            {% when "basics" %}
-              {% include resume/basics.html %}
-            {% when "education" %}
-              {% include resume/education.html %}
-            {% when "work" %}
-              {% include resume/work.html %}
-            {% when "volunteer" %}
-              {% include resume/volunteer.html %}
-            {% when "projects" %}
-              {% include resume/projects.html %}
-            {% when "awards" %}
-              {% include resume/awards.html %}
-            {% when "skills" %}
-              {% include resume/skills.html %}
-            {% when "publications" %}
-              {% include resume/publications.html %}
-            {% when "languages" %}
-              {% include resume/languages.html %}
-            {% when "interests" %}
-              {% include resume/interests.html %}
-            {% when "certificates" %}
-              {% include resume/certificates.html %}
-            {% when "references" %}
-              {% include resume/references.html %}
-            {% else %}
-
-          {% endcase %}
+            {% case data[0] %}
+              {% when "basics" %}
+                {% include resume/basics.html %}
+              {% when "education" %}
+                {% include resume/education.html %}
+              {% when "work" %}
+                {% include resume/work.html %}
+              {% when "volunteer" %}
+                {% include resume/volunteer.html %}
+              {% when "projects" %}
+                {% include resume/projects.html %}
+              {% when "awards" %}
+                {% include resume/awards.html %}
+              {% when "skills" %}
+                {% include resume/skills.html %}
+              {% when "publications" %}
+                {% include resume/publications.html %}
+              {% when "languages" %}
+                {% include resume/languages.html %}
+              {% when "interests" %}
+                {% include resume/interests.html %}
+              {% when "certificates" %}
+                {% include resume/certificates.html %}
+              {% when "references" %}
+                {% include resume/references.html %}
+              {% else %}
+                <!-- Other sections can be added here -->
+            {% endcase %}
           </div>
         </div>
       {% endfor %}
-      </div>
+    </div>
   </article>
 
 </div>
