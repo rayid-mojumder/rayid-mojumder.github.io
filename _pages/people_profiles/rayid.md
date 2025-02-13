@@ -1,1 +1,1 @@
-Rayid Mojumder is currently a PhD student in [Engineering Science and Mechanics](https://www.esm.psu.edu/) at [Pennsylvania State University](https://www.psu.edu/).
+Rayid Mojumder is currently a PhD student in [Electrical Engineering](http://eecs.psu.edu/) at [Pennsylvania State University](https://www.psu.edu/).
