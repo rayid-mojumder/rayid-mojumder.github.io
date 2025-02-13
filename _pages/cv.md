@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: Resume
+title: CV
 nav: true
 nav_order: 7
 cv_pdf: Rayid_Mojumder_Resume.pdf
