@@ -190,4 +190,37 @@ layout: default
       },
       onRegionTipShow: function(e, el, code) {
         if (countryViews[code]) {
-          el.html(
+          el.html(el.html() + ': ' + countryViews[code] + ' views');
+        }
+      }
+    });
+  });
+
+  // Main workflow
+  try {
+    // 1) Update total & daily counters
+    await updateTotalViews();
+    await updateTodayViews();
+
+    // 2) Get geolocation
+    const geoData = await getGeoData();
+    let countryCode = geoData.country_code || geoData.country_code_iso2 || geoData.country || 'XX';
+
+    // 3) Update per-country views
+    try {
+      const res = await fetch(`https://api.countapi.xyz/hit/${namespace}/country-${countryCode}`);
+      if (!res.ok) throw new Error('CountAPI country request failed: ' + res.status);
+      const cdata = await res.json();
+      updateMapData(countryCode, cdata.value);
+    } catch (err) {
+      console.error('Error updating country views:', err);
+      document.getElementById('analytics-error').textContent =
+        'Error: Unable to update country views.';
+    }
+  } catch (err) {
+    console.error('Error in main logic:', err);
+    document.getElementById('analytics-error').textContent =
+      'Error: Unable to load analytics.';
+  }
+})();
+</script>
