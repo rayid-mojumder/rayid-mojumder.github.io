@@ -9,7 +9,9 @@ nav_order: 1
 <a href="https://scholar.google.com/citations?user=1xlWA0UAAAAJ&hl=en&oi=ao">Google Scholar</a>
 <!-- _pages/publications.md -->
 <div class="publications">
-
+  
+{% include bib_search.liquid %}
+{% bibliography %}
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
