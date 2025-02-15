@@ -6,7 +6,7 @@ subtitle: <a href='https://yuresearch.github.io/people.html'>PhD Student</a> | D
 
 profile:
   align: right
-  image: Rayid_Pic.jpg
+  image: picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><b>Md. Rayid Hasan Mojumder</b></p>
