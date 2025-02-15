@@ -2,10 +2,10 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https:/rayid-mojumder.github.io/'>PhD Student</a> | <br><b>Research Interest</b> - <strong>Photonic Interconnets</strong>, <strong>Micro Electronic Packaging</strong>, <strong>Nanoelectronics</strong>, <strong>Heterogeneous Integration</strong>
+subtitle: <a href='https:/rayid-mojumder.github.io/'>PhD Student</a> | Dept. of Electrical Engineering | Penn State - University Park <br><b>Research Interest</b> - <strong>Photonic Interconnets</strong>, <strong>Micro Electronic Packaging</strong>, <strong>Nanoelectronics</strong>, <strong>Heterogeneous Integration</strong>
 profile:
   align: right
-  image: IMG_5054.jpeg
+  image: Rayid_Pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><b>Md. Rayid Hasan Mojumder</b></p>
