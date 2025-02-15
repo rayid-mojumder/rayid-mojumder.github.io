@@ -26,7 +26,8 @@ In recognition of his scholarly excellence and contributions to the field, Mojum
 <!-- ========================= -->
 <!--   MAPMYVISITORS WIDGET   -->
 <!-- ========================= -->
-<div id="wizard-container" style="width: 100%; max-width: 600px; margin: auto;">
+<!-- Responsive MapMyVisitors Widget -->
+<div id="wizard-container" style="width: 100%; max-width: 600px; margin: auto; overflow: hidden;">
   <script type="text/javascript" id="mapmyvisitors"
     src="//mapmyvisitors.com/map.js?d=wQflhXcvXQaf3HCO_614YhpPgUE7XQ2kRYrQf6gHTtY&cl=ffffff&w=a">
   </script>
@@ -35,10 +36,13 @@ In recognition of his scholarly excellence and contributions to the field, Mojum
   function resizeWizard() {
     var container = document.getElementById('wizard-container');
     if (container) {
-      container.style.height = (container.offsetWidth * 0.75) + 'px';
+      // Adjust the height to 75% of the container's width (change the ratio if needed)
+      container.style.height = (container.clientWidth * 0.75) + "px";
     }
   }
-  window.addEventListener('load', resizeWizard);
+  // Initialize the size when the DOM is loaded and on window resize
+  window.addEventListener('DOMContentLoaded', resizeWizard);
   window.addEventListener('resize', resizeWizard);
 </script>
+
 <!-- ========================= -->
