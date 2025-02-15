@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://yuresearch.github.io/people.html'>PhD Student</a> | Dept. of Electrical Engineering | Pennsylvania State University - University Park  <br>Research Interest - Photonic Interconnects, Heterogeneous Integration, Nanoelectrics, Machine Learning
+subtitle: <a href='https://yuresearch.github.io/people.html'>PhD Student</a> | Dept. of Electrical Engineering | Pennsylvania State University - University Park  <br>Research Interest - Photonic Interconnects, Heterogeneous Integration, Nanoelectronics, Machine Learning
 
 profile:
   align: right
