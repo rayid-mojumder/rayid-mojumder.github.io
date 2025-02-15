@@ -26,7 +26,19 @@ In recognition of his scholarly excellence and contributions to the field, Mojum
 <!-- ========================= -->
 <!--   MAPMYVISITORS WIDGET   -->
 <!-- ========================= -->
-<script type="text/javascript" id="mapmyvisitors"
-  src="//mapmyvisitors.com/map.js?d=wQflhXcvXQaf3HCO_614YhpPgUE7XQ2kRYrQf6gHTtY&cl=ffffff&w=a">
+<div id="wizard-container" style="width: 100%; max-width: 600px; margin: auto;">
+  <script type="text/javascript" id="mapmyvisitors"
+    src="//mapmyvisitors.com/map.js?d=wQflhXcvXQaf3HCO_614YhpPgUE7XQ2kRYrQf6gHTtY&cl=ffffff&w=a">
+  </script>
+</div>
+<script>
+  function resizeWizard() {
+    var container = document.getElementById('wizard-container');
+    if (container) {
+      container.style.height = (container.offsetWidth * 0.75) + 'px';
+    }
+  }
+  window.addEventListener('load', resizeWizard);
+  window.addEventListener('resize', resizeWizard);
 </script>
 <!-- ========================= -->
