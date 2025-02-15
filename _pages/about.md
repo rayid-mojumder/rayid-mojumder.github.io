@@ -21,22 +21,24 @@ His research interests are deeply rooted in cutting-edge technology and innovati
 
 In recognition of his scholarly excellence and contributions to the field, Mojumder has received several prestigious awards. These include the [Best Research Award](https://drive.google.com/file/d/1JiaF-y-gp3C3HmAB3it-Q-cYdZKZO73N/view) in 2023 from Daffodil International University, acknowledging his outstanding quality in journal publication, and the [Best Paper Award (Second Place)](https://drive.google.com/file/d/1peqDqsFiX77mkgjVRowOEXgYcW_rP7ph/view) at the International Conference on Energy and Power Engineering (ICEPE) in 2022, hosted by Brac University and organized by the IEEE Power and Energy Society. His undergraduate academic achievements at KUET were also distinguished by multiple Dean’s List Awards.
 
-<!-- Analytics Widget Start -->
-<div id="analytics">
-  <h2>Site Analytics</h2>
+<!-- ============================ -->
+<!--     ANALYTICS WIDGET START  -->
+<!-- ============================ -->
+<div id="analytics" style="border: 1px solid #ccc; padding: 1rem; margin-top: 2rem; max-width: 700px;">
+  <h2 style="margin-top: 0;">Site Analytics</h2>
   <p>Total Views: <span id="total-views">Loading...</span></p>
   <p>Today's Views: <span id="today-views">Loading...</span></p>
   <div id="world-map"></div>
 </div>
 
-<!-- External Libraries for Analytics -->
+<!-- Load jQuery and jVectorMap libraries -->
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jvectormap@2.0.5/jquery-jvectormap.css">
 <script src="https://cdn.jsdelivr.net/npm/jvectormap@2.0.5/jquery-jvectormap.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/jvectormap@2.0.5/tests/assets/jquery-jvectormap-world-mill-en.js"></script>
 
+<!-- Basic styling for the map container -->
 <style>
-  /* Style for the world map */
   #world-map {
     width: 600px;
     height: 400px;
@@ -45,8 +47,8 @@ In recognition of his scholarly excellence and contributions to the field, Mojum
 </style>
 
 <script>
-  // Replace with your own namespace (e.g., your GitHub username)
-  const namespace = 'your-unique-namespace';
+  // Random unique namespace - just copy/paste as is
+  const namespace = 'rayidmojumder-unique-namespace-23987';
 
   // --- Update Total View Count ---
   fetch(`https://api.countapi.xyz/hit/${namespace}/total`)
@@ -65,7 +67,7 @@ In recognition of his scholarly excellence and contributions to the field, Mojum
     })
     .catch(err => console.error('Error updating today views:', err));
 
-  // Object to hold per-country view counts for the map.
+  // Object to hold per-country view counts for the map
   let countryViews = {};
 
   // --- Get Visitor's Country and Update Country Count ---
@@ -73,7 +75,6 @@ In recognition of his scholarly excellence and contributions to the field, Mojum
     .then(response => response.json())
     .then(data => {
       const countryCode = data.country_code; // e.g., "US"
-      // Update the counter for this country.
       fetch(`https://api.countapi.xyz/hit/${namespace}/country-${countryCode}`)
         .then(response => response.json())
         .then(countryData => {
@@ -85,27 +86,26 @@ In recognition of his scholarly excellence and contributions to the field, Mojum
 
   // --- Update Map Data ---
   function updateMapData(countryCode, views) {
-    // jVectorMap expects lowercase ISO country codes.
+    // jVectorMap expects lowercase ISO country codes
     countryViews[countryCode.toLowerCase()] = views;
-    // If the map is already initialized, update its values.
+    // If the map is already initialized, update its values
     if ($('#world-map').data('mapObject')) {
       $('#world-map').vectorMap('set', 'values', countryViews);
     }
   }
 
   // --- Initialize the World Map ---
-  $(function(){
+  $(function() {
     $('#world-map').vectorMap({
       map: 'world_mill_en',
       series: {
         regions: [{
           values: countryViews,
-          scale: ['#C8EEFF', '#0071A4'], // light blue to dark blue
+          scale: ['#C8EEFF', '#0071A4'], // Light blue to dark blue
           normalizeFunction: 'linear'
         }]
       },
       onRegionTipShow: function(e, el, code){
-        // Show view count in tooltip if available.
         if (countryViews[code]) {
           el.html(el.html() + ': ' + countryViews[code] + ' views');
         }
@@ -113,4 +113,6 @@ In recognition of his scholarly excellence and contributions to the field, Mojum
     });
   });
 </script>
-<!-- Analytics Widget End -->
+<!-- ============================ -->
+<!--      ANALYTICS WIDGET END   -->
+<!-- ============================ -->
