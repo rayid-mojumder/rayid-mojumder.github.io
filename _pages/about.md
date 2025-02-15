@@ -22,3 +22,8 @@ Md. Rayid Hasan Mojumder (Rayid Mojumder) is currently a PhD student in [Electr
 His research interests are deeply rooted in cutting-edge technology and innovation. He is currently working on Semiconductor packaging. Previously, he focused on the exploration of 2D Nanomaterials Physics in the context of Semiconductor Devices.
 
 In recognition of his scholarly excellence and contributions to the field, Mojumder has received several prestigious awards. These include the [Best Research Award](https://drive.google.com/file/d/1JiaF-y-gp3C3HmAB3it-Q-cYdZKZO73N/view) in 2023 from Daffodil International University, acknowledging his outstanding quality in journal publication, and the [Best Paper Award (Second Place)](https://drive.google.com/file/d/1peqDqsFiX77mkgjVRowOEXgYcW_rP7ph/view) at the International Conference on Energy and Power Engineering (ICEPE) in 2022, hosted by Brac University and organized by the IEEE Power and Energy Society. His undergraduate academic achievements at KUET were also distinguished by multiple Dean’s List Awards.
+
+
+<script type="text/javascript" id="mapmyvisitors"
+  src="//mapmyvisitors.com/map.js?d=wQflhXcvXQaf3HCO_614YhpPgUE7XQ2kRYrQf6gHTtY&cl=ffffff&w=a">
+</script>
