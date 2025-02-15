@@ -2,8 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://www.linkedin.com/in/rayidhasan/'>PhD Student</a> | Dept. of Electrical Engineering | Pennsylvania State University - University Park <br>
-<b>Research Interest</b> - Photonic Interconnects, Heterogeneous Integration, Nanoelectronics, Machine Learning
+subtitle: <a href='https://www.linkedin.com/in/rayidhasan/'>PhD Student</a> | Dept. of Electrical Engineering | Pennsylvania State University - University Park <br><b>Research Interest</b> - Photonic Interconnects, Heterogeneous Integration, Nanoelectronics, Machine Learning
 
 profile:
   align: right
