@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https:/rayid-mojumder.github.io/'>PhD Student</a>, Dept. of Electrical Engineering, Penn State - University Park
 profile:
   align: right
-  image: Rayid_Pic.jpg
+  image: IMG_5054.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><b>Md. Rayid Hasan Mojumder</b></p>
