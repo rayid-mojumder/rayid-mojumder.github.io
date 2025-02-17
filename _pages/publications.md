@@ -11,7 +11,7 @@ nav_order: 1
 <div class="publications">
   
 {% include bib_search.liquid %}
-{% bibliography %}
+<!--{% bibliography %} -->
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
