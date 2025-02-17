@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://www.linkedin.com/in/rayidhasan/'>PhD Student</a> | Dept. of Electrical Engineering | Pennsylvania State University - University Park
 profile:
   align: right
-  image: picture.jpg
+  image: IMG_5054.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href='https://scholar.google.com/citations?hl=en&user=1xlWA0UAAAAJ&view_op=list_works&sortby=pubdate'><b>Google Scholar</b></a></p>
