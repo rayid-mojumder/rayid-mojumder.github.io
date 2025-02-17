@@ -8,7 +8,7 @@ profile:
   image: picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><b>Md. Rayid Hasan Mojumder</b></p>
+    <p><a href='https://scholar.google.com/citations?hl=en&user=1xlWA0UAAAAJ&view_op=list_works&sortby=pubdate'><b>Google Scholar</b></a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
