@@ -7,8 +7,8 @@ profile:
   align: right
   image: IMG_5054.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Rayid Mojumder</p>
+  more_info:
+        <p><a href='https://scholar.google.com/citations?hl=en&user=1xlWA0UAAAAJ&view_op=list_works&sortby=pubdate'><b>Google Scholar</b></a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
