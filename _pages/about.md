@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://www.linkedin.com/in/rayidhasan/'>PhD Student</a> | Dept. of Electrical Engineering | Pennsylvania State University - University Park
 profile:
   align: right
-  image: ???1743677936821.jpeg
+  image: 1743677936821.jpegk
   image_circular: false # crops the image to make it circular
   more_info:
         <p>Rayid Mojumder</p>
