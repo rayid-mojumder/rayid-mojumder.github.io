@@ -2,25 +2,34 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://www.linkedin.com/in/rayidhasan/'>PhD Student</a> | Dept. of Electrical Engineering | Pennsylvania State University - University Park
+subtitle: <a href='https://www.linkedin.com/in/rayidhasan/'>Ph.D. Student</a> | Electrical Engineering | Penn State | Photonic Interconnects & Advanced Packaging
+
 profile:
   align: right
   image: picture.jpg
-  image_circular: false # crops the image to make it circular
-  more_info:
-        <p>Rayid Mojumder</p>
+  image_circular: false
+  more_info: >
+    <p>Md. Rayid Hasan Mojumder</p>
+    <p>Pennsylvania State University</p>
+    <p>University Park, PA, USA</p>
 
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+news: false
+latest_posts: false
+selected_papers: true
+social: false
 ---
-<b>[Research Interest](https://scholar.google.com/citations?hl=en&user=1xlWA0UAAAAJ&view_op=list_works&sortby=pubdate)</b> - Photonic Interconnects, Heterogeneous Integration, Nanoelectronics, Machine Learning <br><br>Md. Rayid Hasan Mojumder (Rayid Mojumder) is currently a PhD student in [Electrical Engineering](https://www.eecs.psu.edu/) at [Pennsylvania State University](https://www.psu.edu/). Before embarking on his PhD journey, he contributed to the academic field as a Lecturer in the [Department of Electrical and Electronic Engineering](https://daffodilvarsity.edu.bd/department/eee) at [Daffodil International University](https://daffodilvarsity.edu.bd/). His academic foundation was laid at [Khulna University of Engineering & Technology (KUET)](https://www.kuet.ac.bd/), where he completed both his Bachelor’s and Master’s degrees in [Electrical and Electronic Engineering](https://www.kuet.ac.bd/department/EEE/) in 2020 and 2022, respectively.
 
-His research interests are deeply rooted in cutting-edge technology and innovation. He is currently working on Semiconductor packaging. Previously, he focused on the exploration of 2D Nanomaterials Physics in the context of Semiconductor Devices.
+**Research interests:** Photonic interconnects · Advanced semiconductor packaging · 3D heterogeneous integration · Glass photonics · Optical and electromagnetic modeling
 
-In recognition of his scholarly excellence and contributions to the field, Mojumder has received several prestigious awards. These include the [Best Research Award](https://drive.google.com/file/d/1JiaF-y-gp3C3HmAB3it-Q-cYdZKZO73N/view) in 2023 from Daffodil International University, acknowledging his outstanding quality in journal publication, and the [Best Paper Award (Second Place)](https://drive.google.com/file/d/1peqDqsFiX77mkgjVRowOEXgYcW_rP7ph/view) at the International Conference on Energy and Power Engineering (ICEPE) in 2022, hosted by Brac University and organized by the IEEE Power and Energy Society. His undergraduate academic achievements at KUET were also distinguished by multiple Dean’s List Awards.
+I am a Ph.D. student in Electrical Engineering at **The Pennsylvania State University**, working on photonic interconnects for advanced semiconductor packaging. My current research focuses on developing **dense three-dimensional optical interconnects in glass substrates** for high-bandwidth, energy-efficient communication in AI and high-performance-computing systems.
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=a&t=tt&d=wQflhXcvXQaf3HCO_614YhpPgUE7XQ2kRYrQf6gHTtY&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=db0000'></script>
+My Ph.D. work spans the full development cycle of glass-based photonic interconnects, including **optical and electromagnetic modeling, femtosecond-laser waveguide fabrication, cleanroom processing, optical characterization, coupling studies, link-budget analysis, and system-level evaluation**. My broader interests include heterogeneous integration, package-level photonics, and scalable optical I/O.
 
-<br>
+Before my current work in photonics and semiconductor packaging, I conducted research on **organic neuromorphic transistors, first-principles density-functional-theory (DFT) modeling of semiconductor materials, and machine-learning-based power-system stability analysis**. I completed both my B.Sc. and M.Sc. degrees in Electrical and Electronic Engineering at Khulna University of Engineering & Technology (KUET), Bangladesh, and previously served as a Lecturer at Daffodil International University.
+
+### Recent Highlights
+
+- **2026 IEEE EPS Graduate Student Grant:** Selected as one of 25 recipients of a $1,000 IEEE Electronics Packaging Society graduate-student grant.
+- **2026 IEEE ECTC:** Presented *“Photonic Interconnects in Glass Core for AI Data Center Applications.”*
+- **2026 IEEE ECTC Student Travel Grant:** Received a student travel grant in recognition of the submitted ECTC paper.
+- **2025 Fox Scholar:** Received the J. Jeffery and Ann Marie Fox Summer Research Grant from the Penn State Graduate School.
